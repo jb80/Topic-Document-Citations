@@ -10,7 +10,7 @@ The scripts contained here should be used in order.
 1. CC_NetMetrics_Simpl_Cmplx.py analyses the bipartite network and the citation network. It performs a network analysis with common metrics, as well as an analysis of higher order structures (Q-analysis and Betti numbers)
 1. CC_NetAnalysis.py uses results in CC_NetMetrics_Simpl_Cmplx and derives figures.
 
-#Pickled Data
+# Pickle Data Folder
 
 Pickled data only contains only the files used in NetAnalysis, NetMetrics and TopicTrends, due to size constrains. 
 If you are interested in the other data, please contact me.
