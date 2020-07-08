@@ -12,5 +12,4 @@ The scripts contained here should be used in order.
 
 # Pickle Data Folder
 
-Pickled data only contains only the files used in NetAnalysis, NetMetrics and TopicTrends, due to size constrains. 
-If you are interested in the other data, please contact me.
+Pickled data is now empty, and a signpost. Files are too large to be uploaded. 
