@@ -1,5 +1,5 @@
 # Topic-Document-Citations
-Repository for the analysis of social-knowledge networks based on bibliometrics
+Repository for the analysis of social-knowledge networks based on bibliometrics data. These are all  publications in the WoS repository related to climate change and adaptation, mitigation and/or transformation
 
 This repository contains the python scripts used for the analysis of topic-document and citation networks.
 The scripts contained here should be used in order.
