@@ -71,7 +71,7 @@ embedsemanticr = SentenceTransformer ('roberta-large-nli-stsb-mean-tokens')
 stopwords = nltk.corpus.stopwords.words('english')
 specificwords =['climate','change', 'climate-change', 'global-warming','global warming','use', 'potential','potent', 'article','articles',
                 'studi','studying','studies', 'study', 'analysis','anal','analy','analyzing','results','result','response','responses','respons',
-                'large','small','paper', 'papers','possible', 'possibilty', 'ie','eg', 'article'
+                'large','small','paper', 'papers','possible', 'possibility', 'ie','eg', 'article'
                 'rates','rate','rating','may','could','should', 'would','high','low','let', 'must', 
                 "'d", "'m", "'s", 'ca', 'els','henc', 'howev', 'let', 'must', "n't", 'otherwis','sha', 'sinc', 
                 'therefor', 'wo','nan','-', 'ltd','elsevier', '-PRON-','et','al']
