@@ -1,5 +1,5 @@
 # Topic-Document-Citations
-Repository for the analysis of social-knowledge networks based on bibliometrics data. These are all  publications in the WoS repository related to climate change and adaptation, mitigation and/or transformation
+Analysis code for the followinig paper: Baggio, J. A. (2021). Knowledge generation via social-knowledge network co-evolution: 30 years (1990–2019) of adaptation, mitigation and transformation related to climate change. Climatic Change, 167(1–2), 13. https://doi.org/10.1007/s10584-021-03146-5for 
 
 This repository contains the python scripts used for the analysis of topic-document and citation networks.
 The scripts contained here should be used in order.
@@ -13,3 +13,4 @@ The scripts contained here should be used in order.
 # Pickle Data Folder
 
 Pickled data is now empty, and a signpost. Files are too large to be uploaded. 
+For raw data download full records from the WebOfScience using the search terms in the article
